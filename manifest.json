@@ -1,0 +1,39 @@
+{
+  "name": "Surga Nusantara",
+  "short_name": "Surga Nusantara",
+  "scope": "https://www.surganusantara.com/",
+  "start_url": "https://www.surganusantara.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Jelajahi pesona wisata Indonesia! Temukan tempat terbaik untuk liburanmu di Surga Nusantara. Ayo mulai petualanganmu!",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8nx98QQfhZYshPmxwEm1BPpxL1l8ZkbQnGsHI2bi_uzGbvSz5v0CX5W5UBwOKe3FtVYfzBsMQYcloiIg1d6yB8-g9nNV15hvox-qHmICFfElADfXQmVKM54OOvBWx47JC_DMUshfH4IUplNTw8OtvFjQynwBFvLEYuTB0OnC5NBHWMIHV0aiBwaVO3io8/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinLmxNuMZUJpUyr72DlHSB1VzOQwUkswya9B3RuXy39brxf6d5VMa2i_mbPmqEj18NyeUUlCTm7qqjJ9WFgo3Ro35LytPU6296IutscAhEQrc6NfJrg6ssdo6EMy-fLNZomjLkfoN8Yt7yiVoLTVTf7eu-Z4aL3F2S2YpIO9eiRP-xtk034m2POYMJ1vpP/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbNAMu479F6BjgSaNmAqY8PjUnlhzH8MHkZrcViVCQOjYk3IMdFZpxxELdNuLF7C2P7qD_ac4Dx5vw7Uw6i3xFD7iVqrlPfip37cRkNkgS-9rWw29z8RWzx6IIPfrA87XgAaOG8_VmOnibs9jrt97H_ESYIbxZGnE8tUiyCMOz3iry7IYq6iCsnWyyo0Bp/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSScg16H3oQNhZN801LWlBs99QICM00NOaoeWdq-56Odhu-CrvjQjB2d6MIjl9oUH3-uGNIqTZfubrgxKvfyAgREtnZTX1_p9hXX2650bzCsyBx4fApinSMLYJyjh15UzopmRHAJjDZdVwbva6PR1f32bmiLLIJoh5Wc5QA7mHxxXc06Gza1YoWiiEPrzB/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1S94Av72C2Ji1mFRXFBFf2K2ejxt2YCUqXrL9mM7HYUKYFjl-B61kT_L5-lM0Ykg3NoBmb6X7rQt1fu_L5ncFcHPWVkK8f8weG7nDbMgvG_T6XL5l4Bkvsc8Ldy_YmYCMCjjoqV4cqjWzdD8lXI_Y-ytlzeSFiMy1IpxM4XdExrjOhVc2lINJf_KDpmz/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsOGlHz0qcXcymEtH9a-FwXMWeX2i4W-n059WWvbSDXdtLd7f7Xz-GTpdRLf3w_9bsjyC7t-g3TYtd7R2d5s-UgJHU-YGbLsEGaJqpflVT6m9ZbHBMz2rw9fv4krmkAx2kSh_2PxzolU05D2YaMsuQibPjNnm-5LhoYE54_xWu7g9OD6gRoAtFSNu0m3Rq/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgkh9md8BnEYVfhMTo03yZ7oACPpVOAzUxfJKwswhruQyLJrJO_ZLbTUzZ1PvrZN9iYE7b4OBg88mlGNmSIFgtulw4cg7bxGm5TNfT6BBaMtK-SAbZs_I5_UFt5GRzNhZyJTnV99dRBWXcT2IFicUJhq_GB1wViQHiUKEYIPjGNC7YRPs16r6PBioW59BN/s512/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
